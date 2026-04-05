@@ -30,7 +30,9 @@ It is designed to work with hands-up detection and supports downed targets throu
 Make sure these are installed and started before this resource:
 
 -- `ox_lib`
+
 -- `ox_target`
+
 -- `ox_inventory`
 
 ---
