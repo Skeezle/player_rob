@@ -42,11 +42,13 @@ Make sure these are installed and started before this resource:
 3. Ensure dependencies are started before this script.
 4. Add this to your `server.cfg`:
 
-```cfg
+## cfg
 ensure ox_lib
 ensure ox_target
 ensure ox_inventory
 ensure skeezle_rob
+
+---
 
 ## License
 
