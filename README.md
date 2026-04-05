@@ -29,11 +29,11 @@ It is designed to work with hands-up detection and supports downed targets throu
 
 Make sure these are installed and started before this resource:
 
-# `ox_lib`,
+- `ox_lib`,
 
-# `ox_target`,
+- `ox_target`,
 
-# `ox_inventory`,
+- `ox_inventory`,
 
 ---
 
@@ -45,10 +45,10 @@ Make sure these are installed and started before this resource:
 4. Add this to your `server.cfg`:
 
 ## cfg
-##ensure ox_lib
-##ensure ox_target
-##ensure ox_inventory
-##ensure skeezle_rob
+- ensure ox_lib
+- ensure ox_target
+- ensure ox_inventory
+- ensure skeezle_rob
 
 ---
 
