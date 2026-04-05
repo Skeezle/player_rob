@@ -47,3 +47,7 @@ ensure ox_lib
 ensure ox_target
 ensure ox_inventory
 ensure skeezle_rob
+
+## License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this script, including for commercial use, as long as the original license notice is included.
